@@ -1,0 +1,39 @@
+_repo: Mr.-Marx-s-Secret_39018
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wilson, F. Vaux (Francis Vaux)
+    alias: Wilson, Francis Vaux
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '25775'
+    url: http://www.gutenberg.org/2009/agents/25775
+covers:
+- cover_type: archival
+  image_path: 39018-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Oppenheim, E. Phillips (Edward Phillips)
+    aliases:
+    - Partridge, Anthony
+    - Oppenheim, Edward Phillips
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '594'
+    url: http://www.gutenberg.org/2009/agents/594
+    wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
+description: ''
+gutenberg_issued: '2012-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Mr. Marx's Secret
+url: http://www.gutenberg.org/ebooks/39018
